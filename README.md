@@ -183,10 +183,7 @@ Actual metric values should be added here only after running the model and check
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-* GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+Vansh Gupta GitHub: github.com/vanshguptaa14 LinkedIn: linkedin.com/in/vansh-gupta-62a117305
 
 Replace the placeholders with your actual profile links.
 
